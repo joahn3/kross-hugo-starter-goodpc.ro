@@ -27,7 +27,7 @@ description = "Reparăm orice calculator, laptop în 24h. Oferim garanție și p
 email = "goodpcro@gmail.com"
 google_analitycs_id = "Your ID"
 home = "Home"
-logo = "/images/logo-goodpc-rgb.jpg"
+logo = "/images/logo.svg"
 phone = "+4 0786 465 756"
 theme_color = "#0c1847"
 [params.contact]
