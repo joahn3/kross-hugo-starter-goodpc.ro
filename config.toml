@@ -49,7 +49,7 @@ URL = "plugins/slick/slick.min.js"
 URL = "plugins/shuffle/shuffle.min.js"
 [params.preloader]
 enable = true
-preloader = ""
+preloader = "/images/goodpc-pre-loader.gif"
 [[params.social]]
 URL = "https://www.facebook.com/goodpcro/"
 icon = "ti-facebook"
