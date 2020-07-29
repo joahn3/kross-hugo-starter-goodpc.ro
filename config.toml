@@ -29,7 +29,7 @@ google_analitycs_id = "Your ID"
 home = "Home"
 logo = "/images/logo-goodpc-rgb-2.svg"
 phone = "+4 0786 465 756"
-theme_color = "#0c1847"
+theme_color = "#00DDFF"
 [params.contact]
 enable = true
 form_action = "#"
