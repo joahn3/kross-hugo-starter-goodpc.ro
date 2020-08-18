@@ -29,7 +29,7 @@ google_analitycs_id = "Your ID"
 home = "Home"
 logo = "/images/logo.svg"
 phone = "+4 0786 465 756"
-theme_color = "#00DDFF"
+theme_color = "#34558b"
 [params.contact]
 enable = true
 form_action = "#"
